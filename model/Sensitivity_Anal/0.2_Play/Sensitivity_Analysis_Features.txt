@@ -1,0 +1,26 @@
+# ============================================================ #
+#              Sensitivity analysis description 
+# ============================================================ #
+# 
+# *** 
+# Topic of the sensitivity analysis:  transition 
+# Specific item in that topic:  Play with floating Q 
+# Author:  Madi Shipley and Jane Sullivan 
+# Date: 2023-03-30 14:36:25 
+# Sensitivity Analysis ID: Item 0.2 
+# Name of the model created: 23.sq.floatQ.play 
+# *** 
+# 
+# This analysis has been developped based on the following model:  23.sq.floatQ 
+# 
+# Results are stored in the following foler: 
+#	 C:/Users/Jane.Sullivan/Work/Courses/FSH/sst_playground/model/Sensitivity_Anal/0.2_Play 
+# Name of the script used to build the new model: 
+#	 C:/Users/Jane.Sullivan/Work/Courses/FSH/sst_playground/R/ss/Sensitivity_Anal/0.2_Play_Analyses.R .R
+# Name of the script used to analyze the results from this model: 
+#	 C:/Users/Jane.Sullivan/Work/Courses/FSH/sst_playground/R/ss/Sensitivity_Anal/0.2_Play_Outputs.R .R
+# 
+# Features: 
+Madi and I are messin around 
+# ============================================================ #
+
